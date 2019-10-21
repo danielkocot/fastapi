@@ -35,6 +35,8 @@ Here's an incomplete list of some of them.
 
 * <a href="https://eng.uber.com/ludwig-v0-2/" target="_blank">Uber: Ludwig v0.2 Adds New Features and Other Improvements to its Deep Learning Toolbox [including a FastAPI server]</a> on <a href="https://eng.uber.com" target="_blank">Uber Engineering</a>.
 
+* <a href="https://blog.codecentric.de/en/2019/09/api-management-kong-update/" target="_blank">API management with Kong – an update and more</a> on <a href="blog.codecentric.de/en" target="_blank">codecentric Blog</a> by <a href="https://www.linkedin.com/in/danielkocot" target="_blank">Daniel Kocot</a>.
+
 ### Japanese
 
 * <a href="https://qiita.com/mtitg/items/47770e9a562dd150631d" target="_blank">FastAPI｜DB接続してCRUDするPython製APIサーバーを構築</a> by <a href="https://qiita.com/mtitg" target="_blank">@mtitg</a>.
